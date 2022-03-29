@@ -174,4 +174,8 @@ main {
     -webkit-clip-path: polygon(0 1%, 100% 0, 100% 100%, 40% 100%);
     clip-path: polygon(0 1%, 100% 0, 100% 100%, 40% 100%);
   }
+
+  .action {
+    width: 400px;
+  }
 }
